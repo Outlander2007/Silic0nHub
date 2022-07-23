@@ -1,7 +1,7 @@
 # Silic0nHub
 Stable: https://outlander2007.github.io/Silic0nHub 
 
-Beta: https://silicon.bio.link 
+Beta: https://silic0n.bio.link 
 
 A new way to experience tweaks
 
